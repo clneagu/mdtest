@@ -1,8 +1,8 @@
-| Item      | Value | Qty |
-| --------- | -----:|:--: |
-| Computer  | $1600 | 5   |
-| Phone     |   $12 | 12  |
-| Pipe      |    $1 |234  |
+| Item      | Value | Qty | Part | Owner |
+| --------- | -----:|:--: | ---- | ----- |
+| Computer  | $1600 | 5   | 3/43 | xayko |
+| Phone     |   $12 | 12  | 2/23 | kwha  |
+| Pipe      |    $1 |234  | 9/12 | milio |
 
 
 
