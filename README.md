@@ -8,6 +8,7 @@
 > > | Computer  | $1600 | 5   | 3/43 | xayko |
 > > | Phone     |   $12 | 12  | 2/23 | kwha  |
 > > | Pipe      |    $1 |234  | 9/12 | milio |
+> > [![TEXT HERE](http://img.youtube.com/vi/Rpj2J4tn4YI/0.jpg)](https://www.youtube.com/watch?v=Rpj2J4tn4YI)
 >
 > Back to the first level.
 
