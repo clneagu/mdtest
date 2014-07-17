@@ -1,9 +1,15 @@
-| Item      | Value | Qty | Part | Owner |
-| --------- | -----:|:--: | ---- | ----- |
-| Computer  | $1600 | 5   | 3/43 | xayko |
-| Phone     |   $12 | 12  | 2/23 | kwha  |
-| Pipe      |    $1 |234  | 9/12 | milio |
-
+> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse id sem consectetuer libero luctus adipiscing.
+>
+> This is the first level of quoting.
+>
+> > This is nested blockquote.
+> > | Item      | Value | Qty | Part | Owner |
+> > | --------- | -----:|:--: | ---- | ----- |
+> > | Computer  | $1600 | 5   | 3/43 | xayko |
+> > | Phone     |   $12 | 12  | 2/23 | kwha  |
+> > | Pipe      |    $1 |234  | 9/12 | milio |
+>
+> Back to the first level.
 
 
 ```
